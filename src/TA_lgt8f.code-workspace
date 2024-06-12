@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../TA_lgt8f"
+		},
+		{
+			"name": "TA_Lidar",
+			"path": "../../TA_Lidar"
+		},
+		{
+			"name": "TA_STM32",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp"
+		}
+	}
+}
